@@ -5,8 +5,7 @@ title = "Sam Robbins"
 googleAnalytics = ""
 
 # Remove this when using normally
-themesDir = "../"
-theme="themes/hugo-developer-portfolio"
+theme="hugo-developer-portfolio"
 # 
 #[module]
 #  [[module.imports]]
